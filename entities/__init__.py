@@ -1,0 +1,1 @@
+# Module des entités du jeu Éclats d'Astralis 
